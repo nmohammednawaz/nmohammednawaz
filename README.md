@@ -4,7 +4,7 @@
 </p> 
 <img alt = "coding" width = '100%' src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmohammednawaz&label=Profile%20views&color=0e75b6&style=flat" alt="nmohammednawaz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nmohammednawaz&label=Profile%20views&color=0e75b6&style=flat" alt="nmohammednawaz" /> </p>
 
 - 🔭 I’m currently working on **Naisha Airlines**
 
