@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://nmohammednawaz.github.io/](https://nmohammednawaz.github.io/)
+- 👨‍💻 All of my projects are available at [nmohammednawaz.github.io](https://nmohammednawaz.github.io)
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, MySql**
 
 - 📫 How to reach me **nmohammednawaz786@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15-9Se8zwcQ6AlaP7eazkLzw0WuA25qMe/view?usp=sharing](https://drive.google.com/file/d/15-9Se8zwcQ6AlaP7eazkLzw0WuA25qMe/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/15-9Se8zwcQ6AlaP7eazkLzw0WuA25qMe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
