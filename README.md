@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development** at Masai School
 
-- 👨‍💻 All of my projects are available at [nmohammednawaz.github.io](https://nmohammednawaz.github.io)
+- 👨‍💻 All of my projects are available at [https://nmohammednawaz.github.io/](https://nmohammednawaz.github.io)
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, MySql**
 
