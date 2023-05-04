@@ -6,11 +6,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nmohammednawaz&label=Profile%20views&color=0e75b6&style=flat" alt="nmohammednawaz" /> </p>
 
-- 🔭 I’m currently working on **Naisha Airlines**
+- 🔭 I’m currently working on project **Naisha Airlines**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development** at Masai School
 
-- 👨‍💻 All of my projects are available at [nmohammednawaz.github.io](https://nmohammednawaz.github.io)
+- 👨‍💻 All of my projects are available at [my portfolio](https://nmohammednawaz.github.io)
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, MySql**
 
