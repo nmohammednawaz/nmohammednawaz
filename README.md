@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nmohammednawaz&label=Profile%20views&color=0e75b6&style=flat" alt="nmohammednawaz" /> </p>
 
-- 🔭 I’m currently working on project **Naisha Airlines**
+- 🔭 I’m currently working on project **Customer Connect**
 
 - 🌱 I’m currently learning **Full Stack Web Development** at Masai School
 
