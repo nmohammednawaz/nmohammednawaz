@@ -1,5 +1,5 @@
 <p align="center" width = "100%">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi +👋+ Folks,+This is+Nawaz !!;Aspiring full stack java developer+from+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi +👋+ Folks,+This is+Nawaz !!;A full stack java developer+from+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 <img alt = "coding" width = '100%' src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
