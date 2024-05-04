@@ -11,7 +11,7 @@
 <br>🌱 Upskilling React.js from Udemy<br>
 <br>👨‍💻 All of my projects are available at My <a href = "https://nmohammednawaz.github.io/" target="_blank">Portfolio</a><br>
 <br>💬 Ask me about Java, Spring, Spring Boot, Hibernate, Microservices, JDBC, HTML, CSS, JavaScript, React.js, MySql, PostgreSql<br>
-<br>📫 React out to me via nmohammednawaz786@gmail.com<br>
+<br>📫 Reach out to me via nmohammednawaz786@gmail.com<br>
 <br>📄 <a href="https://drive.google.com/file/d/15-9Se8zwcQ6AlaP7eazkLzw0WuA25qMe/view?usp=sharing" target="_blank">Resume</a>
 
 
