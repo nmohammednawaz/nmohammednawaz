@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 🔭 Currently working as a Software Engineer Intern at eGov Foundation<br>
-<br>🌱 Currently learning React.js from Udemy<br>
+<br>🌱 Upskilling React.js from Udemy<br>
 <br>👨‍💻 All of my projects are available at My <a href = "https://nmohammednawaz.github.io/" target="_blank">Portfolio</a><br>
 <br>💬 Ask me about Java, Spring, Spring Boot, Hibernate, Microservices, JDBC, HTML, CSS, JavaScript, React.js, MySql, PostgreSql<br>
 <br>📫 React out to me via nmohammednawaz786@gmail.com<br>
